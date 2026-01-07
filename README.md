@@ -1,4 +1,4 @@
-# renewable-energy-forecasting
+# Renewable-Energy-Forecasting
 
 End-to-end machine learning pipeline for forecasting solar irradiance using historical weather data and public renewable energy datasets. The project is designed as a building block for power markets analytics, renewable integration, and dispatch/operations decision-making.
 
